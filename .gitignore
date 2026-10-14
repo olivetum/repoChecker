@@ -1,0 +1,8 @@
+.idea/
+repoChecker
+
+build/
+cmake-build-debug/
+libcpr.1.dylib
+libcpr.dylib
+libcurl.dylib
